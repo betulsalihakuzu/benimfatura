@@ -64,10 +64,11 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(0, 0, 0, 0.9);
-  transition: all 0.5s;
-  z-index: 997;
-  height: 80px;
+    background: rgba(0, 0, 0, 0.9);
+    transition: all 0.5s;
+    z-index: 997;
+    height: 80px;
+    margin-bottom: 80px;
 }
 
 #header .logo {
@@ -95,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 */
 .navbar {
   padding: 0;
-  margin-bottom:80px;
+ 
 }
 
 .navbar ul {
