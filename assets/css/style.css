@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(0, 0, 0, 0.75);
+  background: rgba(0, 0, 0, 0.9);
   transition: all 0.5s;
   z-index: 997;
   height: 80px;
@@ -319,7 +319,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-mobile .getstarted {
   margin: 15px;
-  color: #5c9f24;
+  color: white;
   padding-left: 15px;
 }
 
@@ -361,7 +361,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
- /* background-color: rgba(17, 17, 17, 0.8); */
+  background-color: rgba(17, 17, 17, 0.8);
   overflow: hidden;
   padding: 0;
 }
@@ -378,7 +378,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-item::before {
   content: '';
- /* background-color: rgba(0, 0, 0, 0.5); */
+  background-color: rgba(0, 0, 0, 0.6);
   position: absolute;
   top: 0;
   right: 0;
@@ -1187,10 +1187,13 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-    background:url("../img/Slider-2.jpg") fixed center center;
-    background-size: cover;
+    background:url("../img/slide/slide_2.jpg") fixed center center;
+    background-size:cover;
     padding: 150px 0;
 }
+
+
+ }
 
     .cta h3 {
         color: #fff;
@@ -1214,12 +1217,13 @@ section {
         margin-top: 10px;
         
         color: #fff;
-        background: #5685b3;
+        background: #5c9f24;
     }
 
         .cta .cta-btn:hover {
             background: #5685b3;
             border: 2px solid #5685b3;
+            
         }
 
 /*--------------------------------------------------------------
