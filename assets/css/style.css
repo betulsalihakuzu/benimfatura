@@ -1192,13 +1192,10 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-    background:url("../img/slide/slide_2.jpg") fixed center center;
-    background-size:cover;
+    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.9)), url("../img/slide/slide_2.jpg")center;
+    background-size: cover;
     padding: 150px 0;
 }
-
-
- }
 
     .cta h3 {
         color: #fff;
@@ -1220,7 +1217,6 @@ section {
         border-radius: 25px;
         transition: 0.5s;
         margin-top: 10px;
-        
         color: #fff;
         background: #5c9f24;
     }
@@ -1228,8 +1224,8 @@ section {
         .cta .cta-btn:hover {
             background: #5685b3;
             border: 2px solid #5685b3;
-            
         }
+
 
 /*--------------------------------------------------------------
 
