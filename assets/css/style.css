@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #5c9f24;
+  color: #fff;
 }
 
 .navbar-mobile > ul > li {
