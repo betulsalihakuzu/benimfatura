@@ -28,9 +28,12 @@
 
 
 /*................ Kampanya Text..................................*/
-
+#images{
+    margin-top:-95px;
+}
 #baslik table{
     margin-top:10%;
+
 
 }
 
