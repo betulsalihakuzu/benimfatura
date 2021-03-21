@@ -309,9 +309,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #2a2a2a;
 }
 
-.navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #fff;
-}
+    .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
+        color: rgb(92, 159, 36);
+    }
+
 
 .navbar-mobile > ul > li {
   white-space: nowrap;
