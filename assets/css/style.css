@@ -496,11 +496,11 @@ h1, h2, h3, h4, h5, h6 {
 #hero .btn-get-started {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  font-size: 25px;
+  font-size: 20px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 30px 32px 32px 32px;
-  border-radius: 8px;
+  padding: 10px 12px 12px 10px;
+  border-radius:10px;
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
@@ -1211,10 +1211,10 @@ section {
     .cta .cta-btn {
         font-family: "Raleway", sans-serif;
         font-weight: 600;
-        font-size: 30px;
+        font-size: 25px;
         letter-spacing: 1px;
         display: inline-block;
-        padding: 8px 28px;
+        padding: 4px 12px;
         border-radius: 25px;
         transition: 0.5s;
         margin-top: 10px;
