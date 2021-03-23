@@ -23,6 +23,15 @@
 	margin: auto;
 }
 
+@media screen and (max-width: 768px) {
+    #kampanya table th {
+        font-size: 7px;
+    }
+}
+
+
+
+
 /*................ Kampanya Tablo..................................*/
 
 
